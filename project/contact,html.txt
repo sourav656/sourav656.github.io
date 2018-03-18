@@ -1,0 +1,61 @@
+<html>
+ <head>
+  <title> Welcome to Home Page </title>
+  <style>
+  #div7
+{
+	margin-left:150px;
+	margin-right:150px;
+}
+h1
+{
+	color:#0B0B3B;
+	font-family:algerian;
+}
+#ul1
+{
+	list-style:none;
+	float:right;
+	margin-right:100px;
+	margin-top:-50px;
+}
+#ul1 li
+{
+	float:left;
+	margin-left:30px;
+}
+img
+{
+ height:200px;
+ width:200px;
+ }
+    #div1
+{
+   width:1200px;
+   margin-top:100px;
+   margin-left:70px;
+}
+  </style>
+ </head>
+ <body>
+ <div id="div7">
+  <h1><a href="">DESHMUKH</a></h1>
+   <ul id="ul1">
+  <li><a href="Home.html"> HOME </a></li> <li><a href="About us.html"> ABOUT </a></li> <li>
+  <a href="Gallery.html">GALLERY</a> </li> <li><a href=""> CONTACT US</a></li>
+  </ul>
+  <div id="div1">
+  <img src="Pic1.jpg"/>
+   <img src="Pic2.jpg"/>
+    <img src="Pic3.jpg"/>
+	 <img src="Pic4.jpg"/>
+	  <img src="Pic5.jpg"/>
+	   <img src="Pic6.jpg"/>
+	    <img src="Pic7.jpg"/>
+		 <img src="Pic8.jpg"/>
+		 <img src="Pic12.jpg"/>
+		 <img src="Pic10.jpg"/>
+  </div>
+  </div>
+ </body> 
+</html>
